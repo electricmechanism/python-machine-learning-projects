@@ -95,3 +95,27 @@ The project file can be opened with Python Jupyter Notebook.
 
 Project status:
 Finished.
+
+5) project_vc.ipynb
+
+Objective of the project:
+Determining a person's age from his photo. A chain supermarket introduces a computer vision system to process customer photos. Photo fixation in the checkout area will help determine the age of customers in order to:
+Analyze purchases and offer products that may be of interest to buyers of this age group;
+Control the conscientiousness of cashiers when selling alcohol.
+Build a model that will determine the approximate age of a person from a photograph.
+At your disposal is a set of photographs of people with age indication.
+
+Conclusion:
+To solve the problem and build the model, a network with the RestNet50 architecture was used, with the number of epochs 10.
+For some categories of ages, there are significantly fewer photographs.
+The distribution schedule is close to normal.
+The data set contains the most photographs of people between the ages of 10 and 50. There are much fewer photographs of other ages, which can adversely affect the quality of education.
+The photo dataset contains photos on a black background and rotated at different angles to the right and left about the x-axis, as well as photos taken under different lighting conditions, as well as black and white photos. Such a diverse set of photographs can have a positive effect on the quality of model training, as the model will learn to recognize age in photographs under different street, with any lighting, as well as in black and white photographs.
+The goal of the project has been achieved, the MAE of the model is no more than 8.
+
+The project is written in the language Python.
+
+The project file can be opened with Python Jupyter Notebook.
+
+Project status:
+Finished.
