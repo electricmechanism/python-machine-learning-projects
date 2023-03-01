@@ -119,3 +119,18 @@ The project file can be opened with Python Jupyter Notebook.
 
 Project status:
 Finished.
+
+6) CV1_MNIST.ipynb
+
+Objective of the project:
+MNIST fashion classification. the MNIST set consists of 28x28 images, each pixel of which represents a shade of gray. The dataset contains images of t-shirts, tops, sandals, and even boots. Our task is to create a neural network that receives these 784 bytes at the input, and at the output returns to which category of clothes out of 10 available the element submitted at the input belongs to.
+
+Conclusion:
+As the model is trained, the loss function value and accuracy metric are displayed for each training iteration. This model achieves an accuracy of around 0.87 (87%) on the training data.
+
+The project is written in the language Python.
+
+The project file can be opened with Python Jupyter Notebook.
+
+Project status:
+Finished.
