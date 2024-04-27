@@ -136,11 +136,13 @@ Project status:
 Finished.
 
 7) NSL_KDD_v2.ipynb
+   
 We analyze traffic from the SDN network and detect a network attack using the NSL-KDD dataset. NSL-KDD is a public dataset, which has been developed from the earlier KDD cup99 dataset (Tavallaee et al., 2009). In ours, several machine learning models, including deep learning neural networks, are trained on the NSL-KDD dataset, and we select the best model based on various metrics.
 The data used to train and test the network is also included in the project:
 input
 
 9) Model_prediction_2.ipynb
+    
 In this project, we study the fault tolerance of SDN networks by examining the current network traffic for the presence of traffic anomalies that can disrupt the operation of the SDN network.
 The data used to train and test the network is also included in the project:
 M_Dataset_2_30.csv
